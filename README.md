@@ -1,5 +1,7 @@
 This is **RunAsTool** **Installer** that i made!
 
+**Attention** : There are x64 and x86, please carefully check your version of Windows to download exactly Installer
+
 This is **Unofficial** but trust me, there are no virus in these file
 
 VirusTotal:
